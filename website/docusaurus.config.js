@@ -85,7 +85,13 @@ const config = {
           {
             type: 'localeDropdown',
           position: 'right',
-          }
+          },
+          {
+            type: 'html',
+            //className:'myLink',
+            position: 'right',
+            value: '<a href="?lang=en"  style="color: #000000;" >English</a> / <a href="?lang=ja"  style="color: #000000;" >日本語</a>',
+          },
         ],
       },
       footer: {
