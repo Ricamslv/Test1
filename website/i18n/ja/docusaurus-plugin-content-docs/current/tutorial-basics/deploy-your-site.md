@@ -2,7 +2,7 @@
 sidebar_position: 5
 ---
 
-# りか
+# サイトを展開する
 
 Docusaurus is a **static-site-generator** (also called **[Jamstack](https://jamstack.org/)**).
 

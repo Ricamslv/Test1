@@ -2,7 +2,7 @@
 sidebar_position: 2
 ---
 
-# サンプル
+# 文書を作成する
 
 Documents are **groups of pages** connected through:
 
