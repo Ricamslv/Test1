@@ -1,3 +1,5 @@
 files:
   - source: /website/docs/tutorial-basics/create-a-page.md
     translation: /website/i18n/%two_letters_code%/docusaurus-plugin-content-docs/current/**/%original_file_name%
+  - source: /website/docusaurus.config.js
+    translation: /website/%two_letters_code%/docs.js
